@@ -61,7 +61,17 @@ Untuk mengetahui perubahan apa saja yang terjadi setelah menambahkan kode, mari 
   <br>
   <b> KESIMPULAN PENAMBAHAN KODE ADALAH : MENAMBAHKAN ICON AIR ATAU IMAGE AIR DIATAS RUMPUT PADA ICON APLIKASI INI </b>
   <br>
-  
+
+## UpdateWidgetsService Commit Screenshots
+<br>
+<u> <b> ADA PERUBUHAN APA? </b> </u> <br>
+Untuk mengetahui perubahan apa saja yang terjadi setelah menambahkan kode, mari kita simak PENJELASAN berikut: <br>
+<ol>
+  <li> Jika kita tidak menyiram tanaman maka di HOMESCREEN akan muncul tanaman yang akan mati menggantikan icon rumput tadi seperti Screenshoot diatas </li>
+  </ol>
+  <br>
+  <b> KESIMPULAN PENAMBAHAN KODE ADALAH : MENAMBAHKAN MENAMBAHKAN KODE UNTUK MEMUNCULKAN TANAMAN YANG AKAN MATI DI HOMESCREEN YANG MENJADI ICON APLIKASI YANG MENGGANTIKAN ICON RUMPUT TADI </b>
+  <br>
   
 ## Image resources
 https://pixabay.com/en/sapling-plant-growing-seedling-154734/
