@@ -87,8 +87,31 @@ Untuk mengetahui perubahan apa saja yang terjadi setelah menambahkan kode, mari 
   <br>
   <b> KESIMPULAN PENAMBAHAN KODE ADALAH : MENAMBAHKAN MENAMBAHKAN KODE UNTUK MEMUNCULKAN TANAMAN YANG BUTUH DISIRAM ATAU AKAN MATI DI HOMESCREEN YANG MENJADI ICON APLIKASI YANG MENGGANTIKAN ICON RUMPUT TADI DAN ADA ID ATAU NOMER TUMBUHAN TERSEBUT </b>
   <br>
- 
+  
+## GridView Commit Screenshots
+![screenshot_20180126-102507](https://user-images.githubusercontent.com/21364340/35424156-828bfd0c-0206-11e8-9ee9-14f5b6f78643.png)
+![screenshot_20180126-102514](https://user-images.githubusercontent.com/21364340/35424158-833c62e6-0206-11e8-9197-ed66fb8a9cbe.png)
+![screenshot_20180126-102517](https://user-images.githubusercontent.com/21364340/35424159-83a477be-0206-11e8-805b-cc3b37ef39dd.png)
+<br>
+<u> <b> ADA PERUBUHAN APA? </b> </u> <br>
+Untuk mengetahui perubahan apa saja yang terjadi setelah menambahkan kode, mari kita simak PENJELASAN berikut: <br>
+<ol>
+  <li> Tampilan pada layar HOMESCREEN menampilkan semua tumbuhan yang kamu punyai seperti Screenshoot ke-1  </li>
+  <li> Dan saat kita tekan icon atau tumbuhan salah satu tersebut akan langsung menuju halaman seperti Screenshoot ke-2 atau Screenshoot ke-3</li>
+  </ol>
+  <br>
+  <b> KESIMPULAN PENAMBAHAN KODE ADALAH : MENAMBAHKAN MENAMBAHKAN KODE UNTUK MEMUNCULKAN SEMUA TANAMAN DI HOMESCREEN DAN JIKA KITA MEMILIH SALAH SATU MAKA KITA AKAN MENUJU KE TANAMAN YANG KITA PILIH </b>
+  <br>
+  
 ## Image resources
 https://pixabay.com/en/sapling-plant-growing-seedling-154734/
 https://pixabay.com/en/cactus-cacti-plant-thorns-spiky-152378/
 https://pixabay.com/en/the-background-background-design-352165/
+
+## Biodata
+<b>
+  <ul>
+    <li> NAMA : LOUISA GABRIELLA </li>
+    <li> KELAS : XII RPL 5 </li>
+    <li> NOMER ABSEN : 15 </li>
+  </ul>
