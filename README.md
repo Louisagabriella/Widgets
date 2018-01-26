@@ -61,8 +61,33 @@ Untuk mengetahui perubahan apa saja yang terjadi setelah menambahkan kode, mari 
   <br>
   <b> KESIMPULAN PENAMBAHAN KODE ADALAH : MENAMBAHKAN ICON AIR ATAU IMAGE AIR DIATAS RUMPUT PADA ICON APLIKASI INI </b>
   <br>
-  
-  
+
+## UpdateWidgetsService Commit Screenshots
+![screenshot_20180126-073951](https://user-images.githubusercontent.com/21364340/35423448-9f177270-0202-11e8-877a-cc1cb922c422.png)
+ <br>
+<u> <b> ADA PERUBUHAN APA? </b> </u> <br>
+Untuk mengetahui perubahan apa saja yang terjadi setelah menambahkan kode, mari kita simak PENJELASAN berikut: <br>
+<ol>
+  <li> Jika kita tidak menyiram tanaman maka di HOMESCREEN akan muncul tanaman yang akan mati menggantikan icon rumput tadi seperti Screenshoot diatas </li>
+  </ol>
+  <br>
+  <b> KESIMPULAN PENAMBAHAN KODE ADALAH : MENAMBAHKAN MENAMBAHKAN KODE UNTUK MEMUNCULKAN TANAMAN YANG BUTUH DISIRAM ATAU AKAN MATI DI HOMESCREEN YANG MENJADI ICON APLIKASI YANG MENGGANTIKAN ICON RUMPUT TADI </b>
+  <br>
+ 
+## Extras Commit Screenshots
+![screenshot_20180126-092324](https://user-images.githubusercontent.com/21364340/35423463-b0853330-0202-11e8-9da5-d7ac5d7fef04.png)
+![screenshot_20180126-073956](https://user-images.githubusercontent.com/21364340/35423462-b03cad04-0202-11e8-9421-62eb3147643b.png)
+<br>
+<u> <b> ADA PERUBUHAN APA? </b> </u> <br>
+Untuk mengetahui perubahan apa saja yang terjadi setelah menambahkan kode, mari kita simak PENJELASAN berikut: <br>
+<ol>
+  <li> Tampilan pada layar HOMESCREEN menampilkan tumbuhan yang harus disiram dengan dibawahnya ditampilkan id atau nomer tumbuhan tersebut seperti Screenshoot ke-1  </li>
+  <li> Dan saat kita tekan icon tersebut akan langsung menuju halaman seperti Screenshoot ke-2</li>
+  </ol>
+  <br>
+  <b> KESIMPULAN PENAMBAHAN KODE ADALAH : MENAMBAHKAN MENAMBAHKAN KODE UNTUK MEMUNCULKAN TANAMAN YANG BUTUH DISIRAM ATAU AKAN MATI DI HOMESCREEN YANG MENJADI ICON APLIKASI YANG MENGGANTIKAN ICON RUMPUT TADI DAN ADA ID ATAU NOMER TUMBUHAN TERSEBUT </b>
+  <br>
+ 
 ## Image resources
 https://pixabay.com/en/sapling-plant-growing-seedling-154734/
 https://pixabay.com/en/cactus-cacti-plant-thorns-spiky-152378/
